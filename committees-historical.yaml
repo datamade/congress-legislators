@@ -6035,9 +6035,9 @@
     congresses:
     - 99
     - 100
-  	- 101
-  	- 102
-  	- 103
+    - 101
+    - 102
+    - 103
     - 104
     - 105
     - 106
@@ -6564,7 +6564,7 @@
       108: Surface Transportation and Merchant Marine
       110: Surface Transportation and Merchant Marine Infrastructure, Safety and Security
       111: Surface Transportation and Merchant Marine
-      115: 110: Surface Transportation and Merchant Marine Infrastructure, Safety and Security
+      115: Surface Transportation and Merchant Marine Infrastructure, Safety and Security
   - name: Science, Technology, and Space
     thomas_id: '09'
     congresses:
