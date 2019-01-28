@@ -1629,6 +1629,24 @@
       113: Tactical Air and Land Forces
       114: Tactical Air and Land Forces
       115: Tactical Air and Land Forces
+  - name: Panel on Business Challenges within the Defense Industry
+    thomas_id: '31'
+    congresses:
+    - 112
+    names:
+      112: Panel on Business Challenges within the Defense Industry
+  - name: Panel on Defense Financial Management and Auditability Reform
+    thomas_id: '32'
+    congresses:
+    - 112
+    names:
+      112: Panel on Defense Financial Management and Auditability Reform
+  - name: Panel on Defense Acquisition Reform
+    thomas_id: '33'
+    congresses:
+    - 111
+    names:
+      111: Panel on Defense Acquisition Reform
   - name: Terrorism, Unconventional Threats and Capabilities
     thomas_id: '26'
     congresses:
@@ -2883,6 +2901,12 @@
       112: Technology, Information Policy, Intergovernmental Relations and Procurement
         Reform
       115: Information Technology
+  - name: Healthcare, Benefits, and Administrative Rules
+    thomas_id: '31'
+    congresses:
+    - 115
+    names:
+      115: Healthcare, Benefits, and Administrative Rules
 - type: house
   name: House Committee on House Administration
   thomas_id: HSHA
@@ -3605,6 +3629,12 @@
       112: Environment and the Economy
       113: Environment and the Economy
       114: Environment and the Economy
+  - name: Select Investigative Panel of the Committee on Energy and Commerce
+    thomas_id: '19'
+    congresses:
+    - 114
+    names:
+      114: Select Investigative Panel of the Committee on Energy and Commerce
   - name: Environment
     thomas_id: '19'
     congresses:
@@ -3907,6 +3937,12 @@
       113: Constitution and Civil Justice
       114: Constitution and Civil Justice
       115: Constitution and Civil Justice
+  - name: Task Force on Antitrust and Competition Policy
+    thomas_id: '11'
+    congresses:
+    - 110
+    names:
+      110: Task Force on Antitrust and Competition Policy
   - name: Intellectual Property, Competition and the Internet
     thomas_id: '12'
     congresses:
@@ -4217,6 +4253,18 @@
       113: Railroads, Pipelines, and Hazardous Materials
       114: Railroads, Pipelines, and Hazardous Materials
       115: Railroads, Pipelines, and Hazardous Materials
+  - name: Panel on Public-Private Partnerships
+    thomas_id: '15'
+    congresses:
+    - 113
+    names:
+      113: Panel on Public-Private Partnerships
+  - name: Panel on 21st Century Freight Transportation
+    thomas_id: '16'
+    congresses:
+    - 113
+    names:
+      113: Panel on 21st Century Freight Transportation
 - type: house
   name: House Committee on Rules
   thomas_id: HSRU
@@ -9054,3 +9102,36 @@
     113: Congressional Human Rights Caucus
     114: Congressional Human Rights Caucus
     115: Congressional Human Rights Caucus
+- type: house
+  name: Select Committee on Energy Independence and Global Warming
+  thomas_id: EIGW
+  congresses:
+  - 110
+  - 111
+  names:
+    110: Select Committee on Energy Independence and Global Warming
+    111: Select Committee on Energy Independence and Global Warming
+- type: house
+  name: Congressional Executive Commission on China
+  thomas_id: CECC
+  congresses:
+  - 107
+  - 108
+  - 109
+  - 110
+  - 111
+  - 112
+  - 113
+  - 114
+  - 115
+  names:
+  107: Congressional Executive Commission on China
+  108: Congressional Executive Commission on China
+  109: Congressional Executive Commission on China
+  110: Congressional Executive Commission on China
+  111: Congressional Executive Commission on China
+  112: Congressional Executive Commission on China
+  112: Congressional Executive Commission on China
+  113: Congressional Executive Commission on China
+  114: Congressional Executive Commission on China
+  115: Congressional Executive Commission on China
